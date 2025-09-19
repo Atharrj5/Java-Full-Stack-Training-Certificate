@@ -19,10 +19,6 @@ Throughout this training program, I gained strong foundational and practical kno
 ## 📂 Repository Content
 - `Full-Stack-Training-Certificate.pdf` → Official training completion certificate  
 
-## 🔗 Certificate Access
-You can view my training certificate here:  
-[📄 View Certificate](./Full-Stack-Training-Certificate.pdf)
-
 ---
 
 ⭐ Feel free to check out my other repositories showcasing projects and certifications!
